@@ -3,7 +3,10 @@
 
 # Log file
 *.log
-
+*.idea/
+*cucumber-html
+*browser/
+*.target
 # BlueJ files
 *.ctxt
 
